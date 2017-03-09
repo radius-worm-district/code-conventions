@@ -1,6 +1,5 @@
 <?php
 
-
     namespace Just\a\Collection\of\Classes
     {
         final class aCollectionOfPropertiesAndMethods
